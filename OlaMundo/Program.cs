@@ -1,8 +1,8 @@
 ﻿using System;
 
 namespace OlaMundo
-{
-    class Program
+/// {
+    /// class Program
     {
         static void Main(string[] args)
         {
@@ -11,3 +11,4 @@ namespace OlaMundo
         }
     }
 }
+
